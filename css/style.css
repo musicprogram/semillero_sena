@@ -15,7 +15,7 @@
 
 .container-fluid{
 	margin: 30px 0px 0px 0px;
-	padding: 10px 0px 0px 15px;
+	
 	background-color: #EAEAEA;
 }
 .parrafo{
@@ -32,4 +32,12 @@
 
 body{
 	background-color: #F2F2F2;
+}
+
+.navbar-default{
+	padding: 0px 10px 0px 0px;
+}
+
+.separar{
+	margin: 5px 5px 5px 5px;
 }
