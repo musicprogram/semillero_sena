@@ -1,0 +1,18 @@
+.verde{
+	background-color: gray;
+}
+
+.rojo{
+	background-color: blue;
+}
+
+
+.banner{
+	width: 100%;
+	height: 200px;
+}
+
+
+.container-fluid{
+	margin: 30px 0px 0px 0px;
+}
