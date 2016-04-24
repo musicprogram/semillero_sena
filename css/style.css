@@ -31,7 +31,7 @@
 
 
 body{
-	background-color: #F2F2F2;
+	background-color: #EFEFEF;
 }
 
 .navbar-default{
@@ -53,4 +53,21 @@ img{
 
 .blanco{
 	color:white;
+}
+
+
+.columna{
+	border: 1px solid black;
+}
+
+
+.container{
+
+}
+
+.full-width{
+	width: 100%;
+	color: white;
+	background-color: gray;
+	padding: 20px;
 }
